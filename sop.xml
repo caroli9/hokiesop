@@ -37,6 +37,45 @@
             <sessiontitle>Winter sessions at Virginia Tech</sessiontitle>
             <welcome></welcome>
             <tasks>
+                <task>
+                    <tasktitle></tasktitle>
+                    <staging></staging>
+                    <ingredients>
+                        <ingredient>
+                            <item></item>
+                        </ingredient>
+                        <ingredient>
+                            <item></item>
+                        </ingredient>
+                    </ingredients>
+                    <steps>
+                        <step>
+                            <action></action>
+                            <note></note>
+                        </step>
+                    </steps>
+                    <summary></summary>
+                </task>
+                
+                <task>
+                    <tasktitle></tasktitle>
+                    <staging></staging>
+                    <ingredients>
+                        <ingredient>
+                            <item></item>
+                        </ingredient>
+                        <ingredient>
+                            <item></item>
+                        </ingredient>
+                    </ingredients>
+                    <steps>
+                        <step>
+                            <action></action>
+                            <note></note>
+                        </step>
+                    </steps>
+                    <summary></summary>
+                </task>
                 
             </tasks>
         </session>
